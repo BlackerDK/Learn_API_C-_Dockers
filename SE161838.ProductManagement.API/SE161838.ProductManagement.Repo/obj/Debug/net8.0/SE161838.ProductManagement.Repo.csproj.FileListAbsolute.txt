@@ -1,0 +1,14 @@
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\bin\Debug\net8.0\SE161838.ProductManagement.Repo.deps.json
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\bin\Debug\net8.0\SE161838.ProductManagement.Repo.runtimeconfig.json
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\bin\Debug\net8.0\SE161838.ProductManagement.Repo.dll
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\bin\Debug\net8.0\SE161838.ProductManagement.Repo.pdb
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\obj\Debug\net8.0\SE161838.ProductManagement.Repo.csproj.AssemblyReference.cache
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\obj\Debug\net8.0\SE161838.ProductManagement.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\obj\Debug\net8.0\SE161838.ProductManagement.Repo.AssemblyInfoInputs.cache
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\obj\Debug\net8.0\SE161838.ProductManagement.Repo.AssemblyInfo.cs
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\obj\Debug\net8.0\SE161838.ProductManagement.Repo.csproj.CoreCompileInputs.cache
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\obj\Debug\net8.0\SE161838.ProductManagement.Repo.dll
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\obj\Debug\net8.0\refint\SE161838.ProductManagement.Repo.dll
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\obj\Debug\net8.0\SE161838.ProductManagement.Repo.pdb
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\obj\Debug\net8.0\SE161838.ProductManagement.Repo.genruntimeconfig.cache
+D:\PRN-API\SE161838.ProductManagement.API\SE161838.ProductManagement.Repo\obj\Debug\net8.0\ref\SE161838.ProductManagement.Repo.dll

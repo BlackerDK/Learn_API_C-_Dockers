@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  se161838.productmanagement.api:
+    image: ${DOCKER_REGISTRY-}se161838productmanagementapi
+    build:
+      context: .
+      dockerfile: SE161838.ProductManagement.API/Dockerfile
+    ports:
+      - "4000:8080"
+      - "4001:8081"
