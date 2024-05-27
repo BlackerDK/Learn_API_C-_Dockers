@@ -38,6 +38,8 @@ namespace SE161838.ProductManagement.Repo.ViewModels.Product
     }
     public class ProductUpdateModels
     {
+        public int ProductId { get; set; }
+
         public int CategoryId { get; set; }
 
         public string ProductName { get; set; } = null!;

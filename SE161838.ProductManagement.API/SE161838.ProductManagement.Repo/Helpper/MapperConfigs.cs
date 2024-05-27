@@ -11,9 +11,11 @@ namespace SE161838.ProductManagement.Repo.Mappers
     {
         public MapperConfigs()
         {
-            CategoryMapperConfigs();         
+            CategoryMapperConfigs();
+            UserMapperConfigs();
         }
         partial void CategoryMapperConfigs();
+        partial void UserMapperConfigs();
         
     }
 }

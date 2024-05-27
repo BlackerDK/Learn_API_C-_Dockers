@@ -2,6 +2,7 @@
 using Microsoft.Data.SqlClient;
 using SE161838.ProductManagement.Repo.Models;
 using SE161838.ProductManagement.Repo.ViewModels.Category;
+using SE161838.ProductManagement.Repo.ViewModels.Member;
 using SE161838.ProductManagement.Repo.ViewModels.Product;
 using System;
 using System.Collections.Generic;
@@ -19,6 +20,12 @@ namespace SE161838.ProductManagement.Repo.Mappers
                 .ForMember(c => c.CategoryName, opt => opt.MapFrom(src => src.Category.CategoryName)).ReverseMap();
             CreateMap<Product, ProductCreateModels>().ReverseMap();
             CreateMap<Product, ProductUpdateModels>().ReverseMap();
+        }
+        partial void UserMapperConfigs()
+        {
+            CreateMap<Member, MemberViewModels>().ReverseMap();
+            CreateMap<Member, MemberLoginViewModels>().ReverseMap();
+            CreateMap<Member, MemberCreateViewModels>().ReverseMap();
         }
     }
 }

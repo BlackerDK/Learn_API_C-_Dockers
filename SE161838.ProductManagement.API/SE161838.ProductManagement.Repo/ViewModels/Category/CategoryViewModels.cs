@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SE161838.ProductManagement.Repo.ViewModels.Category
 {
-    internal class CategoryViewModels
+    public class CategoryViewModels
     {
     }
 }
